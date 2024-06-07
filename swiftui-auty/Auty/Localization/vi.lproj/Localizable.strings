@@ -1,0 +1,112 @@
+/*
+  Localizable.strings
+  Auty
+
+  Created by Treasure Letter on 16/04/2024.
+  
+*/
+
+// MARK: COMMON
+"Common.hello" = "Xin Chào";
+"Common.and" = "và";
+"Common.cancel" = "Huỷ";
+"Common.confirm" = "Xác nhận";
+"Common.save" = "Lưu";
+"Common.register" = "Đăng Ký";
+"Common.logout" = "Đăng Xuất";
+"Common.login" = "Đăng Nhập";
+"Common.name" = "Tên";
+"Common.email" = "Email";
+"Common.password" = "Mật Khẩu";
+"Common.confirmPassword" = "Xác Thực Mật Khẩu";
+"Common.skip" = "Bỏ Qua";
+"Common.next" = "Tiếp Theo";
+
+// MARK: Gender
+"Gender.male" = "Nam";
+"Gender.female" = "Nữ";
+"Gender.other" = "Khác";
+
+// - MARK: AuthView
+"AuthView.slogan" = "Lớp Học Auty";
+"AuthView.quote" = "Cung cấp nhiều tài liệu, câu hỏi và những thông tin dễ hiểu";
+
+// - MARK: LoginView
+"LoginView.welcomeBack" = "Chào Mừng Quay Lại!";
+"LoginView.quote" = "Nhập email và mật khẩu bạn đã đăng ký trước đó";
+"LoginView.note" = "Bằng cách đăng ký, bạn đã đồng ý với";
+"LoginView.term" = "Điều khoản Dịch vụ";
+"LoginView.privacy" = "Chính sách Bảo mật";
+"LoginView.alter" = "Hoặc";
+"LoginView.suggest" = "Chưa tạo tài khoản? Nhấp vào";
+"LoginView.here" = "đây";
+
+// - MARK: HomeView
+"HomeView.autyLearning" = "Lớp học Auty";
+"HomeView.course" = "Các khoá học";
+"HomeView.courseCategory" = "Danh mục khóa học";
+"HomeView.info" = "Thông tin";
+"HomeView.survey" = "Khảo sát";
+"HomeView.progress" = "Tiến trình";
+"HomeView.tryOut" = "Thử nghiệm";
+"HomeView.recommend" = "Gợi ý cho bạn";
+"HomeView.topCourse" = "Khoá học nổi bật";
+"HomeView.price" = "Giá";
+
+// - MARK: CourseView
+"CourseView.course" = "Khoá học";
+"CourseView.myCourse" = "Của tôi";
+"CourseView.all" = "Tất cả";
+"CourseView.downloaded" = "Đã tải";
+"CourseView.book" = "Sách";
+"CourseView.allMyCourse" = "Các khoá học của tôi";
+
+// - MARK: ProfileView
+"ProfileView.profile" = "Tài Khoản";
+"ProfileView.setting" = "Cài Đặt";
+"ProfileView.payment" = "Thanh Toán";
+"ProfileView.frequentlyAsk" = "Câu Hỏi Thường Gặp";
+"ProfileView.customerCare" = "Chăm Sóc Khách Hàng";
+"ProfileView.aboutus" = "Về Chúng Tôi";
+
+// - MARK: NavigationView
+"NavigationView.learning" = "Lớp Học Auty";
+"NavigationView.information" = "Thông Tin";
+"NavigationView.survey" = "Khảo Sát";
+
+// - MARK: OnboardingView
+"OnboardingView.welcome" = "Chào Mừng";
+"OnboardingView.note" = "Cài đặt thông tin cho trẻ";
+"OnboardingView.getStarted" = "Bắt Đầu";
+
+// - MARK: ChildrenInformationView
+"ChildrenInformationView.childrenInformation" = "Thông Tin Trẻ";
+"ChildrenInformationView.dob" = "Ngày Sinh";
+"ChildrenInformationView.gender" = "Giới Tính";
+"ChildrenInformationView.questionOne" = "Trẻ đã được chẩn đoán tự kỷ/chậm phát triển/tắc nghèn tâm thần chưa?";
+"ChildrenInformationView.questionTwo" = "Trẻ đã được kiểm tra trước đó bằng CDC/ASQ(E)-3/M-CHATR chưa?";
+
+// - MARK: SurveyView
+"SurveyView.title" = "PSC";
+"SurveyView.progress" = "Tiến Trình";
+"SurveyView.notOften" = "Không Thường Xuyên";
+"SurveyView.often" = "Thường Xuyên";
+"SurveyView.veryOften" = "Rất Thường Xuyên";
+
+// - MARK: RegisterView
+"RegisterView.welcome" = "Chào Mừng Bạn";
+"RegisterView.quote" = "Hãy tham gia cùng chúng tôi để khám phá thế giới dành cho trẻ";
+"RegisterView.signUpWithGoogle" = "Đăng ký bằng tài google";
+"RegisterView.signUpWithFaceBook" = "Đăng ký bằng tài facebook";
+"RegisterView.suggest" = "Bạn đã có tài khoản rồi?";
+"RegisterView.login" = "Đăng nhập";
+
+// - MARK: CartView
+"CartView.cart" = "Giỏ Hàng";
+"CartView.hours" = "Giờ";
+"CartView.subTotal" = "Tiền tạm tính";
+"CartView.discount" = "Giảm giá";
+"CartView.promocode" = "Mã ưu đãi";
+"CartView.total" = "Tổng cộng";
+"CartView.payment" = "Thanh Toán";
+"CartView.remind" = "Bạn có chắc muốn xoá đơn hàng này không";
